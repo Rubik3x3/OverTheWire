@@ -1,0 +1,40 @@
+
+Host: bandit.labs.overthewire.org
+Puerto: 2220
+SSH
+
+Nivel 0:
+- Usuario: bandit0
+- Pass: bandit0
+
+Nivel 1:
+- Usuario: bandit1
+- Pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+Nivel 2:
+- Usuario: bandit2
+- Pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+Nivel 3:
+- Usuario bandit3
+- Pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+Nivel 4:
+- Usuario bandit4
+- Pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+Nivel 5:
+- Usuario bandit5
+- Pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Nivel 6:
+- Usuario bandit6
+- Pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+Nivel 7:
+- Usuario bandit7
+- Pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Nivel 8:
+- Usuario bandit8
+- Pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
