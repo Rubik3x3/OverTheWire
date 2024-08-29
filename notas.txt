@@ -50,3 +50,7 @@ Nivel 10:
 Nivel 11:
 - Usuario: bandit11
 - Pass: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+Nivel 12:
+- Usuario bandit12
+- Pass: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
