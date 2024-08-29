@@ -16,25 +16,37 @@ Nivel 2:
 - Pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 Nivel 3:
-- Usuario bandit3
+- Usuario: bandit3
 - Pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 Nivel 4:
-- Usuario bandit4
+- Usuario: bandit4
 - Pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 Nivel 5:
-- Usuario bandit5
+- Usuario: bandit5
 - Pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 Nivel 6:
-- Usuario bandit6
+- Usuario: bandit6
 - Pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 Nivel 7:
-- Usuario bandit7
+- Usuario: bandit7
 - Pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 Nivel 8:
-- Usuario bandit8
+- Usuario: bandit8
 - Pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+Nivel 9:
+- Usuario: bandit9
+- Pass: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+Nivel 10:
+- Usuario: bandit10
+- Pass: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+Nivel 11:
+- Usuario: bandit11
+- Pass: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
