@@ -1,0 +1,72 @@
+
+Host: bandit.labs.overthewire.org
+Puerto: 2220
+SSH
+
+Nivel 0:
+- Usuario: bandit0
+- Pass: bandit0
+
+Nivel 1:
+- User: bandit1
+- Pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+Nivel 2:
+- User: bandit2
+- Pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+Nivel 3:
+- User: bandit3
+- Pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+Nivel 4:
+- User: bandit4
+- Pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+Nivel 5:
+- User: bandit5
+- Pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Nivel 6:
+- User: bandit6
+- Pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+Nivel 7:
+- User: bandit7
+- Pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Nivel 8:
+- User: bandit8
+- Pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+Nivel 9:
+- User: bandit9
+- Pass: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+Nivel 10:
+- User: bandit10
+- Pass: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+Nivel 11:
+- User: bandit11
+- Pass: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+Nivel 12:
+- User: bandit12
+- Pass: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+Nivel 13:
+- User: bandit13
+- Pass: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
+Nivel 14:
+- User: bandit14
+- Pass: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+
+Nivel 15:
+- User: bandit15
+- Pass: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+
+Nivel 16:
+- User: bandit16
+- Pass: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
