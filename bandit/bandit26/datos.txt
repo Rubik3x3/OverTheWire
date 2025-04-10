@@ -1,0 +1,1 @@
+Te dice donde se ejecuta el bash en /etc/passwd al lado del usuario.

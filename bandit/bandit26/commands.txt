@@ -1,0 +1,4 @@
+echo $BASH
+cat text.txt
+echo $SHELL
+echo "HOLA"
