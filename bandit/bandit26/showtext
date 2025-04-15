@@ -1,0 +1,7 @@
+#cat /usr/bin/showtext
+#!/bin/sh
+
+export TERM=linux
+
+exec more ~/text.txt
+exit 0

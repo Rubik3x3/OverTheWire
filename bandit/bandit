@@ -1,108 +1,26 @@
-
-Host: bandit.labs.overthewire.org
-Puerto: 2220
-SSH
-
-Nivel 0:
-- Usuario: bandit0
-- Pass: bandit0
-
-Nivel 1:
-- User: bandit1
-- Pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-
-Nivel 2:
-- User: bandit2
-- Pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-
-Nivel 3:
-- User: bandit3
-- Pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-
-Nivel 4:
-- User: bandit4
-- Pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-
-Nivel 5:
-- User: bandit5
-- Pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-
-Nivel 6:
-- User: bandit6
-- Pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-
-Nivel 7:
-- User: bandit7
-- Pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
-
-Nivel 8:
-- User: bandit8
-- Pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-
-Nivel 9:
-- User: bandit9
-- Pass: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
-
-Nivel 10:
-- User: bandit10
-- Pass: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
-
-Nivel 11:
-- User: bandit11
-- Pass: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
-
-Nivel 12:
-- User: bandit12
-- Pass: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
-
-Nivel 13:
-- User: bandit13
-- Pass: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
-
-Nivel 14:
-- User: bandit14
-- Pass: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
-
-Nivel 15:
-- User: bandit15
-- Pass: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
-
-Nivel 16:
-- User: bandit16
-- Pass: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
-
-Nivel 17:
-- User: bandit17
-- Pass: EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
-
-Nivel 18:
-- User: bandit18
-- Pass: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
-
-Nivel 19:
-- User: bandit19
-- Pass: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
-
-Nivel 20:
-- User: bandit20
-- Pass: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
-
-Nivel 21:
-- User: bandit21
-- Pass: EeoULMCra2q0dSkYj561DX7s1CpBuOBt
-
-Nivel 22:
-- User: bandit22
-- Pass: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
-
-Nivel 23:
-- User: bandit23
-- Pass: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
-
-Nivel 24:
-- User: bandit24
-- Pass: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
-
-Nivel 25:
-- User: bandit25
-- Pass: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+bandit0:bandit0
+bandit1:ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+bandit2:263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit3:MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+bandit4:2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit5:4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+bandit6:HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+bandit7:morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+bandit8:dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+bandit9:4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+bandit10:FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+bandit11:dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+bandit12:7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+bandit13:FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+bandit14:MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+bandit15:8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+bandit16:kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+bandit17:EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+bandit18:x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+bandit19:cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+bandit20:0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+bandit21:EeoULMCra2q0dSkYj561DX7s1CpBuOBt
+bandit22:tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+bandit23:0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
+bandit24:gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+bandit25:iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
